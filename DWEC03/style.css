@@ -1,0 +1,8 @@
+.flexContent {
+    display: flex;
+    gap: 2rem;
+}
+
+.result {
+    margin: 0px;
+}
